@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Spörtli</title>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link href="lib/nvd3/src/nv.d3.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+     <div class="navbar navbar-inverse navbar-fixed-top hidden">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#"></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li>a <a href="#">#makeopendata</a> project</li>
+          </ul>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+
+        <h1>
+          Spörtli
+          <a class="btn btn-primary" id="sport-choose">Auswählen</a>
+        </h1>
+        <div class="sport-buttons">
+          <button type="button" class="close" id="sport-dismiss" aria-hidden="true">&times;</button>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 feed">
+         
+
+  <div id="chart1">
+    <svg></svg>
+  </div>
+
+
+       </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 footer">
+          Visit the 
+          <a href="http://make.opendata.ch/wiki/project:spörtli" target="_blank">
+            project wiki 
+          </a>
+          for more information.
+          <a href="https://github.com/loleg/open-spoertli" target="_blank">
+            <img src="http://opendata.utou.ch/alps/res/github-256-black.png" style="float:left;height:1.2em;margin:0 .5em 0 1.1em"> Source code
+          </a> and <a href="https://github.com/loleg/open-spoertli/issues">issues</a> on GitHub.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+<script src="lib/jquery.min.js"></script>
+<script src="lib/bootstrap.min.js"></script>
+<script src="lib/nvd3/lib/d3.v2.js"></script>
+<script src="lib/nvd3/nv.d3.js"></script>
+<script src="lib/nvd3/src/tooltip.js"></script>
+<script src="lib/nvd3/src/utils.js"></script>
+<script src="lib/nvd3/src/models/legend.js"></script>
+<script src="lib/nvd3/src/models/axis.js"></script>
+<script src="lib/nvd3/src/models/scatter.js"></script>
+<script src="lib/nvd3/src/models/line.js"></script>
+<script src="lib/nvd3/src/models/cumulativeLineChart.js"></script>
+
+<script src="js/app.js"></script>
