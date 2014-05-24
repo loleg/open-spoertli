@@ -7114,7 +7114,7 @@ td.visible-print {
 }
 
 .jumbotron {
-  background: url('https://farm5.staticflickr.com/4066/4635643822_00d2c91ed6_o_d.jpg') no-repeat;
+  background-position: 50% 40%;
   background-size: 100% auto;
 }
 
@@ -7167,7 +7167,10 @@ h1 {
 }
 
 h1 small {
+  padding: 4px 8px;
   color: #e11;
+  background: #fff;
+  border-radius: 10px;
 }
 
 .sport-buttons {

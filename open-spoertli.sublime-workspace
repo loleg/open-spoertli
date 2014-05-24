@@ -1,0 +1,907 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-origin"
+			],
+			[
+				"spor",
+				"sportData"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"wra",
+				"text-wrap:   (property)"
+			],
+			[
+				"all",
+				"allSports"
+			],
+			[
+				"json",
+				"jsondata"
+			],
+			[
+				"getE",
+				"getEntryByUrl"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"data-",
+				"data-entry-id"
+			],
+			[
+				"queu",
+				"queuelength"
+			],
+			[
+				"locat",
+				"locationRequest"
+			],
+			[
+				"ge",
+				"geonamesTree"
+			],
+			[
+				"geonam",
+				"geonamesUrl"
+			],
+			[
+				"photo",
+				"photoCollection"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/oleg/Localdev/OpenData/Sport/spoertli/app/index.html",
+			"settings":
+			{
+				"buffer_size": 4104,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/oleg/Localdev/OpenData/Sport/spoertli/app/styles/main.less",
+			"settings":
+			{
+				"buffer_size": 1640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/oleg/Localdev/OpenData/Sport/spoertli/app/scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 2425,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/oleg/Localdev/OpenData/Sport/spoertli/app/analyse.html",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/open-spoertli.sublime-project",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/index.html",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-no-semi.less",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/js/app.js",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/css/app.css",
+		"/home/oleg/Localdev/OpenData/Sport/openfootball/world-cup/2014--brazil/quali/africa_playoffs.txt",
+		"/home/oleg/Localdev/OpenData/Sport/spoertli/app/styles/main.less",
+		"/home/oleg/Localdev/OpenData/Sport/spoertli/app/scripts/main.js",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/app/index.html",
+		"/home/oleg/Localdev/OpenData/Sport/spoertli/app/index.html",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/app/scripts/main.js",
+		"/home/oleg/Localdev/OpenData/Sport/spoertli/.gitignore",
+		"/home/oleg/Localdev/OpenData/Sport/spoertli/bower.json",
+		"/home/oleg/Localdev/OpenData/Sport/spoertli/package.json",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/data/J-S-2004-2012.json",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/app/bower_components/bootstrap/less/mixins.less",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/Gruntfile.js",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/package.json",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/app/bower_components/modernizr/feature-detects/network-connection.js",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/node_modules/grunt/CONTRIBUTING.md",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/app/bower_components/modernizr/feature-detects/css-objectfit.js",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/.bowerrc",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/bower_components/bootstrap/less/mixins.less",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/node_modules/grunt-recess/node_modules/recess/node_modules/less/test/css/mixins-guards.css",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/node_modules/grunt-recess/node_modules/recess/node_modules/less/test/css/mixins-important.css",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/bower.json",
+		"/home/oleg/Localdev/OpenData/Sport/open-spoertli/js/untitled",
+		"/opt/localdev/okcon/OpenDataButton/README.md",
+		"/opt/localdev/okcon/OpenDataButton/server/schema.sql",
+		"/opt/localdev/okcon/OpenDataButton/server/README.md",
+		"/opt/localdev/okcon/OpenDataButton/server/opendatabutton/templates/index.html",
+		"/home/oleg/Dropbox/opendata/OpenGovernmentCH/members.txt",
+		"/home/oleg/Localdev/OpenData/cumulizer/index.php",
+		"/opt/localdev/AWL/Kornhaus/kornmon/__init__.py",
+		"/opt/localdev/okcon/OpenDataButton/bookmarklet/bookmarklet.js",
+		"/opt/localdev/okcon/OpenDataButton/bookmarklet.js",
+		"/home/oleg/Localdev/okcon/OpenDataButton/bookmarklet.min.js",
+		"/home/oleg/Localdev/okcon/ODBServer/requirements.txt",
+		"/home/oleg/Localdev/okcon/ODBServer/opendatabutton/__init__.py",
+		"/home/oleg/Documents/opendata/okcon legalhack 2013.9/index.html",
+		"/home/oleg/Documents/opendata/okcon legalhack 2013.9/index.1.html",
+		"/opt/localdev/CTX/M2_Dashboard/app/index.html",
+		"/opt/localdev/CTX/M2_BlobContour/study/study.js",
+		"/opt/localdev/CTX/M2_BlobContour/app.js",
+		"/opt/localdev/CTX/M2_BlobContour/ctkx.geonames.js",
+		"/opt/localdev/CTX/M2_BlobContour/study/study_configuration.default",
+		"/opt/localdev/CTX/M2_BlobContour/run-study.sh",
+		"/opt/localdev/CTX/M2_BlobContour/package.json",
+		"/opt/localdev/CTX/M2_BlobContour/study/study_summary_for_tracker.js",
+		"/opt/localdev/CTX/M2_BlobContour/routes/study.js",
+		"/opt/localdev/CTX/M2_Dashboard/app/scripts/main.js",
+		"/opt/localdev/CTX/M2_BlobContour/.study_1379073044343/study.log",
+		"/opt/localdev/CTX/M2_BlobContour/.study_1379071842777/study.log",
+		"/opt/localdev/CTX/M2_Dashboard/bower.json",
+		"/opt/localdev/CTX/M2_BlobContour/study/study_configuration.js",
+		"/home/oleg/Downloads/ctkx_locations_1378988371032_Berlin.json",
+		"/opt/localdev/CTX/M2_BlobContour/blobcontour.sublime-project",
+		"/opt/localdev/CTX/M2_Dashboard/app/bower_components/socket.io/Readme.md",
+		"/opt/localdev/CTX/M2_BlobContour/study/README.md",
+		"/opt/localdev/CTX/M2_BlobContour/inspector/contourfs_ui.js",
+		"/opt/localdev/CTX/M2_BlobContour/tracker/app.js",
+		"/opt/localdev/CTX/M2_BlobContour/inspector/contourfs.js",
+		"/opt/cassandra/conf/cassandra.yaml",
+		"/opt/localdev/CTX/M2_BlobContour/ctkx.runner.js",
+		"/opt/localdev/CTX/M2_BlobContour/inspector/contourfs_graph.js",
+		"/opt/localdev/CTX/M2_BlobContour/study_city/study_configuration.js",
+		"/opt/localdev/CTX/M2_BlobContour/study_top5/study_configuration.js",
+		"/opt/cassandra/conf/cassandra.",
+		"/run/user/oleg/gvfs/sftp:host=datalets.ch,port=2600/opt/cassandra/conf/cassandra.yaml",
+		"/home/oleg/Downloads/CTXSummary (1).csv",
+		"/opt/localdev/CTX/M2_BlobContour/inspector/index.html",
+		"/opt/localdev/CTX/M2_BlobContour/tools/package_for_inspector.js",
+		"/opt/localdev/CTX/M2_BlobContour/lucas_00/study_configuration.js",
+		"/opt/localdev/CTX/M2_BlobContour/examples/resolve_geonames.js",
+		"/opt/localdev/CTX/M2_BlobContour/lucas_01/study_configuration.js",
+		"/opt/localdev/CTX/M2_BlobContour/examples/study_configuration.js",
+		"/opt/localdev/CTX/M2_BlobContour/tools/study_summary_for_tracker.js",
+		"/opt/localdev/CTX/M2_BlobContour/examples/study_summary_for_tracker.js",
+		"/opt/localdev/CTX/M2_BlobContour/examples/run.sh",
+		"/opt/localdev/CTX/M2_BlobContour/tools/summary.js",
+		"/opt/localdev/CTX/M2_BlobContour/node_modules/sqlite3/deps/sqlite-autoconf-3071700/ltmain.sh",
+		"/opt/localdev/CTX/M2_BlobContour/ctkx.dataQuery.js",
+		"/opt/localdev/CTX/M2_BlobContour/README.md",
+		"/opt/localdev/CTX/M2_BlobContour/lucas_01/study.log",
+		"/var/www/Geo/web-storymaps/storymap5/Gruntfile.js",
+		"/var/www/Geo/web-storymaps/storymap5/.gitignore",
+		"/var/www/Geo/web-storymaps/storymap5/app/scripts/geoadmin-init.js",
+		"/var/www/Geo/web-storymaps/storymap5/app/scripts/wms-custom-proj.js",
+		"/var/www/Geo/web-storymaps/storymap5/README.md",
+		"/var/www/Geo/web-storymaps/storymap5/app/scripts/geoadmin.js",
+		"/var/www/Geo/web-storymaps/storymap5/app/data/photos.json",
+		"/var/www/Geo/web-storymaps/storymap5/app/data/MetadatenAufnahmen.csv",
+		"/var/www/Geo/web-storymaps/storymap5/package.json",
+		"/home/oleg/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/var/www/Geo/web-storymaps/storymap5/storymap5.sublime-project",
+		"/home/oleg/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/oleg/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/oleg/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/var/www/Geo/web-storymaps/storymap5/app/scripts/main.js",
+		"/var/www/Geo/web-storymaps/storymap5/app/scripts/hello.coffee",
+		"/var/www/demo/dataalps/index.html",
+		"/var/www/demo/dataalps/test.html",
+		"/var/www/demo/dataalps/js/ui.js",
+		"/var/www/demo/dataalps/js/geoadmin.js",
+		"/var/www/demo/dataalps/js/data.js",
+		"/var/www/demo/dataalps/js/render.js",
+		"/var/www/demo/dataalps/js/features.js",
+		"/var/www/demo/dataalps/js/heightmap.js",
+		"/var/www/demo/dataalps/august1.html",
+		"/var/www/demo/dataalps/data/swiss-meteo-stations.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"livereload",
+			"watch",
+			"extend",
+			"\"..",
+			"button.datalets.ch",
+			"BUTTON_SERVER",
+			"7000",
+			"time",
+			"dialog-form",
+			"'",
+			"\"",
+			"'",
+			"\\n",
+			"\"",
+			"'",
+			"\"",
+			"s_title",
+			"s_url",
+			"request.args.get\\((.*)\\)",
+			"request.args.get",
+			"add",
+			"push",
+			"hashcode",
+			"cache_key",
+			"cache",
+			"REDIS_PASS",
+			"wraps",
+			"disabled",
+			"outputDir",
+			"configuration.settings.outputDir",
+			"summary_tracker.json",
+			"ExportKML",
+			"textarea",
+			"''",
+			"logfile",
+			"resolve_geonames",
+			"textarea",
+			"#d-configure",
+			"getSelectedLocations",
+			"msg",
+			"processing",
+			"disable",
+			"textarea",
+			"#d-configure",
+			"TEMPDIR",
+			"OUTPUTDIR",
+			"d-configure",
+			"/var/lib/cassandra/",
+			"Export_KML",
+			"Export_CSV",
+			"ExportToCSV",
+			"ExportToKML",
+			"Error: ",
+			"error:",
+			"PathToFile",
+			"loadcontour",
+			"GetDataitem",
+			": </td><td>",
+			" + '</td></tr>';",
+			":</td><td>'+",
+			"h += '<tr><td class=\"key\">",
+			"jsonfile",
+			"dataTables",
+			"BuildDatatable",
+			"summary_tracker",
+			"result.geojson",
+			"Features",
+			"geojson",
+			"$1 || {\n",
+			"configuration",
+			"args",
+			"study.log",
+			"mkdir",
+			"livereload",
+			"swissProjection",
+			"getTopicUrl",
+			"settingsBeforeHeightMap",
+			"projG",
+			"renderLights",
+			"http://wmts..geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/20130213/21781/14/([0-9]*)/([0-9]*)\\.",
+			"http://wmts3.geo.admin.ch.*/14/([0-9]*)/([0-9]*)\\.",
+			"http://wmts3.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/20130213/21781/14/(.)/(.)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"lib/nvd3",
+			"\\'",
+			"'",
+			"\"",
+			"",
+			"\\\"",
+			"\"",
+			"'",
+			"jsondata['title']",
+			"jsondata['url']",
+			"jsondata[\\1]",
+			"REDISTOGO_PASS",
+			"/opt/cassandra/",
+			"ExportKML",
+			"ExportCSV",
+			"Export_CSV",
+			"Export_KML",
+			"Export-KML",
+			"Export.KML",
+			"GetDataItem",
+			"",
+			",",
+			"':",
+			"'",
+			"$LOGFILE",
+			"SetupHeightMap",
+			"projectorGeom",
+			"data/map/14-\\1-\\2.",
+			"data/map/14-\\1-\\2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/oleg/Localdev/OpenData/Sport/spoertli/app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1935,
+								1935
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/oleg/Localdev/OpenData/Sport/spoertli/app/styles/main.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1142,
+								1142
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/oleg/Localdev/OpenData/Sport/spoertli/app/scripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"project": "open-spoertli.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.html",
+				"open-spoertli/index.html"
+			],
+			[
+				"app.js",
+				"open-spoertli/js/app.js"
+			],
+			[
+				"mixin",
+				"app/bower_components/bootstrap/less/mixins.less"
+			],
+			[
+				"mixins",
+				"app/bower_components/bootstrap/less/mixins.less"
+			],
+			[
+				"summary.js",
+				"M2_BlobContour/tools/summary.js"
+			],
+			[
+				".sh",
+				"M2_BlobContour/node_modules/sqlite3/deps/sqlite-autoconf-3071700/ltmain.sh"
+			],
+			[
+				"readme",
+				"M2_BlobContour/README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/opt/localdev/geo/web-storymaps/storymap5/storymap5.sublime-project"
+			],
+			[
+				"story",
+				"/opt/localdev/geo/web-storymaps/storymap5/storymap5.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
