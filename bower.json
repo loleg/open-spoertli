@@ -1,0 +1,12 @@
+{
+  "name": "open-spoertli",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "~3.0.0-rc1",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.9.1",
+    "nvd3": "~1.1.15-beta",
+    "leaflet": "~0.7.3"
+  },
+  "devDependencies": {}
+}
