@@ -7113,8 +7113,9 @@ td.visible-print {
   }
 }
 
-.hero-unit {
-  margin: 50px auto 0 auto;
+.jumbotron {
+  background: url('https://farm5.staticflickr.com/4066/4635643822_00d2c91ed6_o_d.jpg') no-repeat;
+  background-size: 100% auto;
 }
 
 .footer {
@@ -7139,13 +7140,44 @@ svg {
 
 }
 
+body .navbar-fixed-top {
+  background: #ffffff url('http://opendata.utou.ch/alps/res/opendata_logo2.png') no-repeat 1% center;
+  border-bottom: 1px solid red;
+}
+
+body .navbar-fixed-top .primary {
+  font-weight: bold;
+}
+
+body .navbar-fixed-top .active {
+  background: #eee;
+}
+
 #sport-choose {
   display: none;
+  float: right;
+}
+
+.sport-title {
+  text-align: center;
+}
+
+h1 {
+  color: white !important;
+}
+
+h1 small {
+  color: #e11;
+}
+
+.sport-buttons {
+  max-height: 20em;
+  overflow-y: auto;
 }
 
 .sport-buttons .btn {
   width: 150px;
-  height: 100px;
+  height: 50px;
   margin: 5px;
   overflow-x: hidden;
   font-weight: bold;
@@ -7153,14 +7185,9 @@ svg {
   vertical-align: bottom;
   background: #ddd;
   border: none;
+  opacity: 0.8;
 }
 
-.sport-buttons .btn i {
-  position: absolute;
-  display: block;
-  width: 150px;
-  height: 100px;
-  margin: -5px -10px;
-  background: url("../images/icons/globe_1_icon&48.png") no-repeat 50% 90%;
-  opacity: 0.2;
+.sport-buttons .btn:hover {
+  background: #fff;
 }
